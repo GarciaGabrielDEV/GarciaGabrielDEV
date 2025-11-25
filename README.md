@@ -20,12 +20,7 @@ Me chamo Gabriel Garcia, tenho 19 anos e sou natural de Mauá SP. Concluí o ens
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     <a href="https://www.twitch.tv/odereek">
-    <img 
-            alt="Twitch" 
-            title="Me siga na Twitch" 
-            src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
-        />
-    </a>
+  
 </p>
 
 ---
