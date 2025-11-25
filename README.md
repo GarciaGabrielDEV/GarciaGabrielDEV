@@ -2,7 +2,7 @@
 
 **`Estudante de ADS e Cyber`**
 
-Me chamo Gabriel Garcia, tenho 19 anos e sou natural de Mauá SP. Concluí o ensino médio no Sesi. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CUFSA. Sou apaixonado por tecnologia e Procuro cada dia saber muito mais.
+Me chamo Gabriel Garcia, tenho 20 anos e sou natural de Mauá SP. Concluí o ensino médio no Sesi. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CUFSA. Sou apaixonado por tecnologia e Procuro cada dia saber muito mais.
 
 <p>
     </a> 
