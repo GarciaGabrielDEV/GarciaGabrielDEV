@@ -2,7 +2,9 @@
 
 **`Estudante de ADS e Cyber`**
 
-Me chamo Gabriel Garcia, tenho 20 anos e sou natural de Mauá SP. Concluí o ensino médio no Sesi. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na CUFSA. Sou apaixonado por tecnologia e Procuro cada dia saber muito mais.
+Sou Gabriel Garcia, desenvolvedor formado em Análise e Desenvolvimento de Sistemas pela CUFSA. Apaixonado por tecnologia, estou sempre buscando evoluir minhas habilidades e criar soluções práticas através do código.
+
+Aqui compartilho meus projetos, estudos e experiências na área de desenvolvimento.
 
 <p>
     </a> 
